@@ -86,7 +86,7 @@ section{
 
 #home{
   box-sizing: border-box;
-  background-image: url(/midia/fundo_home.jpeg);
+  background-image: url(/fundo_home.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
